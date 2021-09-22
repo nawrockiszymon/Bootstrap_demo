@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "js": "^0.1.0",
+    "sass": "^1.42.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./main.scss ./main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nawrockiszymon/Bootstrap_demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nawrockiszymon/Bootstrap_demo/issues"
+  },
+  "homepage": "https://github.com/nawrockiszymon/Bootstrap_demo#readme"
+}
